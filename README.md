@@ -1,6 +1,5 @@
 # jwt-init
 Implementacion de jwt
-<<<<<<< HEAD
 
 Este proyecto es solo para demostrar como funciona jwt al generar y verificar los tokens
 Mediante la terminal es como enviamos los valores de las variables usadas para generar el token y despues para verificarlo
@@ -13,5 +12,3 @@ El primer argumento sera para ejecutar node, el segundo es el archivo que ejecut
 4. Copia el token obtenido en la terminal
 5. Verifica si tu token es real con ```node index.js verify secret <token>```
 6. Obtendras los headers del token
-=======
->>>>>>> 9e4850ab627b5b60bb0bb214d6996c78c68bc790
